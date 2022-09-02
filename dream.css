@@ -91,12 +91,13 @@
 
 .slider-navigation {
   z-index: 888;
+  margin-bottom: -45rem;
   position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
   transform: translateY(80px);
-  margin-bottom: -45rem;
+  
 }
 
 .slider-navigation .nav-btn {
